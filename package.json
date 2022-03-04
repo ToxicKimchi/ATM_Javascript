@@ -1,0 +1,20 @@
+{
+  "name": "atm_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToxicKimchi/ATM_Javascript.git"
+  },
+  "keywords": [],
+  "author": "Garett Bare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToxicKimchi/ATM_Javascript/issues"
+  },
+  "homepage": "https://github.com/ToxicKimchi/ATM_Javascript#readme"
+}
