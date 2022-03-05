@@ -4,7 +4,7 @@ let accounts = [
 {
     firstName:'Elizabeth',
     pin:'1111',
-    balance:parseFloat('10')
+    balance:parseFloat('10000')
 },
 {
     firstName:'Bethany',
@@ -14,12 +14,12 @@ let accounts = [
 {
     firstName: 'Mark',
     pin:'1509`',
-    balance:parseFloat('4500')
+    balance:parseFloat('568')
 },
 {
     firstName : 'Ethan',
     pin:'2567',
-    balance:parseFloat('1478')
+    balance:parseFloat('12')
 },
 {
     firstName : 'Lucifer',
@@ -29,7 +29,7 @@ let accounts = [
 {
     firstName : 'Ignacio',
     pin:'4521',
-    balance:parseFloat('1678')
+    balance:parseFloat('5')
 }
 ]
 
